@@ -1,0 +1,15 @@
+C:\Users\Банан\Desktop\C_sharp\Proj_3\bin\Debug\net6.0\Proj_3.exe
+C:\Users\Банан\Desktop\C_sharp\Proj_3\bin\Debug\net6.0\Proj_3.deps.json
+C:\Users\Банан\Desktop\C_sharp\Proj_3\bin\Debug\net6.0\Proj_3.runtimeconfig.json
+C:\Users\Банан\Desktop\C_sharp\Proj_3\bin\Debug\net6.0\Proj_3.dll
+C:\Users\Банан\Desktop\C_sharp\Proj_3\bin\Debug\net6.0\Proj_3.pdb
+C:\Users\Банан\Desktop\C_sharp\Proj_3\obj\Debug\net6.0\Proj_3.csproj.AssemblyReference.cache
+C:\Users\Банан\Desktop\C_sharp\Proj_3\obj\Debug\net6.0\Proj_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Банан\Desktop\C_sharp\Proj_3\obj\Debug\net6.0\Proj_3.AssemblyInfoInputs.cache
+C:\Users\Банан\Desktop\C_sharp\Proj_3\obj\Debug\net6.0\Proj_3.AssemblyInfo.cs
+C:\Users\Банан\Desktop\C_sharp\Proj_3\obj\Debug\net6.0\Proj_3.csproj.CoreCompileInputs.cache
+C:\Users\Банан\Desktop\C_sharp\Proj_3\obj\Debug\net6.0\Proj_3.dll
+C:\Users\Банан\Desktop\C_sharp\Proj_3\obj\Debug\net6.0\refint\Proj_3.dll
+C:\Users\Банан\Desktop\C_sharp\Proj_3\obj\Debug\net6.0\Proj_3.pdb
+C:\Users\Банан\Desktop\C_sharp\Proj_3\obj\Debug\net6.0\Proj_3.genruntimeconfig.cache
+C:\Users\Банан\Desktop\C_sharp\Proj_3\obj\Debug\net6.0\ref\Proj_3.dll
